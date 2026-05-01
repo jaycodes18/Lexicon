@@ -1,4 +1,4 @@
-# LEXICON SOVEREIGN
+# LEXICON
 
 A high-performance, desktop-native React workstation for legal intelligence
 and compliance. Operated under retainer.
